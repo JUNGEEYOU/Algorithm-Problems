@@ -1,14 +1,20 @@
 import sys
 
-def recursive(n, sum_, cnt_):
-    if sum_ == n:
-        return cnt_ + 1
-    for i in range(1, 4):
-        if sum_ > n:
-            continue
-        recursive(n, sum_ + i, cnt_)
+t = int(sys.stdin.readline().rstrip())
 
-arr = []
-for _ in range(int(sys.stdin.readline().rstrip())):
+
+def dfs(sum_):
+    if sum_ == x:
+        return 1
+    count = 0
+    for i in range(1, 4):
+        if sum_ > x:
+            continue
+        count += dfs(sum_ + i)
+    return count
+
+
+for _ in range(t):
     x = int(sys.stdin.readline().rstrip())
-    print(recursive(x, 0, 0))
+    print(dfs(0))
+
