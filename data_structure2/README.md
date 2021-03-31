@@ -23,7 +23,7 @@
 | 06 |  :heavy_check_mark:  | <a href="http://boj.kr/4358" target="_blank">생태학</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      ||
 | 07 |  :heavy_check_mark:  | <a href="http://boj.kr/2696" target="_blank">중앙값 구하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      ||
 | 08 |                      | <a href="http://boj.kr/10546" target="_blank">배부른 마라토너</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      ||
-| 09 |                      | <a href="http://boj.kr/1302" target="_blank">베스트셀러</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      ||
+| 09 |                      | <a href="http://boj.kr/1302" target="_blank">베스트셀러</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](./baekjoon/1302.py) |![status][DONE] |
 | 10 |                      | <a href="http://boj.kr/9375" target="_blank">패션왕 신해빈</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      ||
 | 11 |                      | <a href="http://boj.kr/2776" target="_blank">암기왕</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      ||
 | 12 |                      | <a href="http://boj.kr/1269" target="_blank">대칭 차집합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      ||
