@@ -37,3 +37,9 @@
 | 19 |                      | <a href="http://boj.kr/5397" target="_blank">키로거</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](./baekjoon/5397.py)|![status][DONE]|
 | 20 |                      | <a href="http://boj.kr/18115" target="_blank">카드 놓기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                     | |
 | 21 |                      | <a href="http://boj.kr/5430" target="_blank">AC</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      ||
+
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC
+[RETRY]: https://img.shields.io/badge/-RETRY-red
