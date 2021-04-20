@@ -18,16 +18,16 @@
 
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |  풀이 상태      |  
 | :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
-| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/11728" target="_blank">배열 합치기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](./baekjoon/11728.py) |[status][DONE]|
+| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/11728" target="_blank">배열 합치기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](./baekjoon/11728.py) |![status][DONE]|
 | 01 |  :heavy_check_mark:  | <a href="http://boj.kr/11659" target="_blank">구간 합 구하기 4</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      ||
-| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/20922" target="_blank">겹치는 건 싫어</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./baekjoon/20922.py) |[status][DONE]|
-| 03 |  :heavy_check_mark:  | <a href="http://boj.kr/2470" target="_blank">두 용액</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./baekjoon/1806.py)|[status][DONE]|
-| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/15961" target="_blank">회전 초밥</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  [바로가기](./baekjoon/15961.py) |[status][DONE]|
-| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/1806" target="_blank">부분합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  [바로가기](./baekjoon/1806.py)|[status][DONE]|
+| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/20922" target="_blank">겹치는 건 싫어</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./baekjoon/20922.py) |![status][DONE]|
+| 03 |  :heavy_check_mark:  | <a href="http://boj.kr/2470" target="_blank">두 용액</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./baekjoon/1806.py)|![status][DONE]|
+| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/15961" target="_blank">회전 초밥</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  [바로가기](./baekjoon/15961.py) |![status][DONE]|
+| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/1806" target="_blank">부분합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  [바로가기](./baekjoon/1806.py)|![status][DONE]|
 | 06 |  :heavy_check_mark:  | <a href="http://boj.kr/20366" target="_blank">같이 눈사람 만들래?</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      ||
 | 07 |  :heavy_check_mark:  | <a href="http://boj.kr/3151" target="_blank">합이 0</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      ||
 | 08 |  :heavy_check_mark:  | <a href="http://boj.kr/20442" target="_blank">ㅋㅋ루ㅋㅋ</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      ||
-| 09 |  :heavy_check_mark:  | <a href="http://boj.kr/7453" target="_blank">합이 0인 네 정수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |[status][DOING]|
+| 09 |  :heavy_check_mark:  | <a href="http://boj.kr/7453" target="_blank">합이 0인 네 정수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |![status][DOING]|
 | 10 |                      | <a href="http://boj.kr/2018" target="_blank">수들의 합 5</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      ||
 | 11 |                      | <a href="http://boj.kr/1940" target="_blank">주몽</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      ||
 | 12 |                      | <a href="http://boj.kr/3273" target="_blank">두 수의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      ||
@@ -36,7 +36,7 @@
 | 15 |                      | <a href="http://boj.kr/2003" target="_blank">수들의 합 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      ||
 | 16 |                      | <a href="http://boj.kr/2559" target="_blank">수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      ||
 | 17 |                      | <a href="http://boj.kr/15565" target="_blank">귀여운 라이언</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      ||
-| 18 |                      | <a href="http://boj.kr/2531" target="_blank">회전 초밥</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |[바로가기](./baekjoon/2531.py)|[status][DONE]|
+| 18 |                      | <a href="http://boj.kr/2531" target="_blank">회전 초밥</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |[바로가기](./baekjoon/2531.py)|![status][DONE]|
 | 19 |                      | <a href="http://boj.kr/2118" target="_blank">두 개의 탑</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      ||
 | 20 |                      | <a href="http://boj.kr/2467" target="_blank">용액</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      ||
 | 21 |                      | <a href="http://boj.kr/2230" target="_blank">수 고르기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      ||
