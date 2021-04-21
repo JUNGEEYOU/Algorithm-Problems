@@ -14,30 +14,30 @@
 
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |        풀이 상태      |  
 | :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
-| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/14916" target="_blank">거스름돈</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      | |
-| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/2217" target="_blank">로프</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      | |
-| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/1343" target="_blank">폴리오미노</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      | |
-| 03 |  :heavy_check_mark:  | <a href="http://boj.kr/1758" target="_blank">알바생 경호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      | |
+| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/14916" target="_blank">거스름돈</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](./baekjoon/14916.py)  |![status][DONE] |
+| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/2217" target="_blank">로프</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](./baekjoon/2217.py) | ![status][DONE]|
+| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/1343" target="_blank">폴리오미노</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](./baekjoon/1343.py)  | ![status][DONE]|
+| 03 |  :heavy_check_mark:  | <a href="http://boj.kr/1758" target="_blank">알바생 경호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |[바로가기](./baekjoon/1758.py) |![status][DONE]|
 | 04 |  :heavy_check_mark:  | <a href="http://boj.kr/11399" target="_blank">ATM</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      | |
-| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/11508" target="_blank">2+1 세일</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      | |
-| 06 |  :heavy_check_mark:  | <a href="http://boj.kr/20115" target="_blank">에너지 드링크</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      | |
-| 07 |  :heavy_check_mark:  | <a href="http://boj.kr/20300" target="_blank">서강근육맨</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      | |
+| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/11508" target="_blank">2+1 세일</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  [바로가기](./baekjoon/11508.py) | ![status][DONE]|
+| 06 |  :heavy_check_mark:  | <a href="http://boj.kr/20115" target="_blank">에너지 드링크</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](./baekjoon/20115.py)  | ![status][DONE]|
+| 07 |  :heavy_check_mark:  | <a href="http://boj.kr/20300" target="_blank">서강근육맨</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  [바로가기](./baekjoon/20300.py)| ![status][DONE]|
 | 08 |  :heavy_check_mark:  | <a href="http://boj.kr/13164" target="_blank">행복 유치원</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      | |
-| 09 |  :heavy_check_mark:  | <a href="http://boj.kr/1931" target="_blank">회의실 배정</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |[바로가기](./baekjoon/1931.py)  |[status][DONE]|
-| 10 |  :heavy_check_mark:  | <a href="http://boj.kr/1541" target="_blank">잃어버린 괄호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      | |
+| 09 |  :heavy_check_mark:  | <a href="http://boj.kr/1931" target="_blank">회의실 배정</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |[바로가기](./baekjoon/1931.py)  |![status][DONE]|
+| 10 |  :heavy_check_mark:  | <a href="http://boj.kr/1541" target="_blank">잃어버린 괄호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](./baekjoon/1541.py)  | ![status][DONE]|
 | 11 |  :heavy_check_mark:  | <a href="http://boj.kr/13164" target="_blank">행복 유치원</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      | |
 | 12 |  :heavy_check_mark:  | <a href="http://boj.kr/20365" target="_blank">블로그2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      | |
-| 13 |  :heavy_check_mark:  | <a href="http://boj.kr/11047" target="_blank">동전 0</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  [바로가기](./baekjoon/11047.py)      |![status][DONE]  |
-| 14 |  :heavy_check_mark:  | <a href="http://boj.kr/16953" target="_blank">A → B</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      | |
-| 15 |  :heavy_check_mark:  | <a href="http://boj.kr/2141" target="_blank">우체국</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      | |
-| 16 |  :heavy_check_mark:  | <a href="http://boj.kr/19598" target="_blank">최소 회의실 개수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      | |
+| 13 |  :heavy_check_mark:  | <a href="http://boj.kr/11047" target="_blank">동전 0</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  [바로가기](./baekjoon/11047.py)  |![status][DONE]  |
+| 14 |  :heavy_check_mark:  | <a href="http://boj.kr/16953" target="_blank">A → B</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  [바로가기](./baekjoon/16953.py)| ![status][DONE]|
+| 15 |  :heavy_check_mark:  | <a href="http://boj.kr/2141" target="_blank">우체국</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./baekjoon/2141.py)  |![status][DONE] |
+| 16 |  :heavy_check_mark:  | <a href="http://boj.kr/19598" target="_blank">최소 회의실 개수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./baekjoon/19598.py)| ![status][DONE] |
 | 17 |  :heavy_check_mark:  | <a href="http://boj.kr/11000" target="_blank">강의실 배정</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |[바로가기](./baekjoon/11000.py)   |![status][DONE]|
-| 18 |  :heavy_check_mark:  | <a href="http://boj.kr/2812" target="_blank">크게 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      | |
-| 19 |  :heavy_check_mark:  | <a href="http://boj.kr/2212" target="_blank">센서</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      | |
+| 18 |  :heavy_check_mark:  | <a href="http://boj.kr/2812" target="_blank">크게 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./baekjoon/2812.py)|![status][DONE]|
+| 19 |  :heavy_check_mark:  | <a href="http://boj.kr/2212" target="_blank">센서</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./baekjoon/2212.py) |![status][DONE] |
 | 20 |  :heavy_check_mark:  | <a href="http://boj.kr/1092" target="_blank">배</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      | |
-| 21 |  :heavy_check_mark:  | <a href="http://boj.kr/13975" target="_blank">파일 합치기3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      | |
-| 22 |  :heavy_check_mark:  | <a href="http://boj.kr/1715" target="_blank">카드 정렬하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      | |
-| 23 |  :heavy_check_mark:  | <a href="http://boj.kr/8980" target="_blank">택배</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      | |
+| 21 |  :heavy_check_mark:  | <a href="http://boj.kr/13975" target="_blank">파일 합치기3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  [바로가기](./baekjoon/13975.py) | ![status][DONE]|
+| 22 |  :heavy_check_mark:  | <a href="http://boj.kr/1715" target="_blank">카드 정렬하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./baekjoon/1715.py) |![status][DONE]|
+| 23 |  :heavy_check_mark:  | <a href="http://boj.kr/8980" target="_blank">택배</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./baekjoon/8980.py)|![status][DONE] |
 | 24 |  :heavy_check_mark:  | <a href="http://boj.kr/2285" target="_blank">우체국</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      | |
 | 25 |                      | <a href="http://boj.kr/1439" target="_blank">뒤집기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      | |
 | 26 |                      | <a href="http://boj.kr/17521" target="_blank">Byte Coin</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      | |
