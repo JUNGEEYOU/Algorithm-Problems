@@ -19,7 +19,7 @@
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |  풀이 상태      |  
 | :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
 | 00 |  :heavy_check_mark:  | <a href="http://boj.kr/11728" target="_blank">배열 합치기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](./baekjoon/11728.py) |![status][DONE]|
-| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/11659" target="_blank">구간 합 구하기 4</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      ||
+| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/11659" target="_blank">구간 합 구하기 4</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](./baekjoon/11728.py)|![status][DONE]|
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/20922" target="_blank">겹치는 건 싫어</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./baekjoon/20922.py) |![status][DONE]|
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/2470" target="_blank">두 용액</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./baekjoon/1806.py)|![status][DONE]|
 | 04 |  :heavy_check_mark:  | <a href="http://boj.kr/15961" target="_blank">회전 초밥</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  [바로가기](./baekjoon/15961.py) |![status][DONE]|
